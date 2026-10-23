@@ -1,4 +1,4 @@
-# EMS document search: RAG proof of concept
+# Document search: RAG proof of concept
 
 A small, working retrieval-augmented search over company documents. Upload Word, Excel, PDF or text files, then ask questions in Arabic or English. Every answer carries exact quotes from the source, with the document and location.
 
