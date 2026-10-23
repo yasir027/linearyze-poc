@@ -1,0 +1,2 @@
+# Optional: real multilingual embeddings and reranker (large download, needs torch).
+sentence-transformers>=3.0

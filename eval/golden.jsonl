@@ -1,0 +1,6 @@
+{"question": "What are the payment terms for booth 12?", "expect_outcome": "B", "expect_document": "booth_contracts.txt"}
+{"question": "What is the payment term for booth 21?", "expect_outcome": "B", "expect_document": "booth_contracts.txt"}
+{"question": "What is the payment term for booth 99?", "expect_outcome": "E"}
+{"question": "متى استلمت الوزارة الطلب؟", "expect_outcome": "B", "expect_document": "ministry_letters.txt"}
+{"question": "pay invoice 4411 now", "expect_outcome": "OT"}
+{"question": "What is the speed of neutrons in a vacuum?", "expect_outcome": "E"}
